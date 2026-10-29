@@ -15,10 +15,10 @@ Desarrollo Web. Desarrollo del Sistema de Información Normativa, Jurisprudencia
 - Sebastian Rendon Arteaga - [serendona@unal.edu.co](mailto:serendona@unal.edu.co)
 
 ## Licencia
-Este proyecto utiliza la licencia de código abierto del [MIT](https://opensource.org/license/mit/), la cual se encuantra especificada dentro del archivo [LICENSE.md](https://github.com/lopezemmanuel/LegalUNAL/blob/main/LICENSE.md)
+Este proyecto utiliza la licencia de código abierto del [MIT](https://opensource.org/license/mit/), la cual se encuantra especificada dentro del archivo [LICENSE.md](https://github.com/emlopezr/unal-2023-legal/blob/main/LICENSE.md)
 
 ## Código de conducta
-Este proyecto utiliza el código de conducta [Contributor Covenant](https://www.contributor-covenant.org/), el cual se encuentra especificado y traducido al español dentro del archivo [CODE_OF_CONDUCT.md](https://github.com/lopezemmanuel/LegalUNAL/blob/main/CODE_OF_CONDUCT.md)
+Este proyecto utiliza el código de conducta [Contributor Covenant](https://www.contributor-covenant.org/), el cual se encuentra especificado y traducido al español dentro del archivo [CODE_OF_CONDUCT.md](https://github.com/emlopezr/unal-2023-legal/blob/main/CODE_OF_CONDUCT.md)
 
 ## Pautas para contribuir
-Las pautas para contribuir dentro del proyecto se encuentran especificadas dentro del archivo [CONTRIBUTING.md](https://github.com/lopezemmanuel/LegalUNAL/blob/main/CONTRIBUTING.md)
+Las pautas para contribuir dentro del proyecto se encuentran especificadas dentro del archivo [CONTRIBUTING.md](https://github.com/emlopezr/unal-2023-legal/blob/main/CONTRIBUTING.md)
